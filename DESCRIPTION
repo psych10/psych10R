@@ -1,0 +1,15 @@
+Package: psych10R
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Russ Poldrack
+Maintainer: Russ Poldrack <russpold@stanford.edu>
+Description: This is a metapackage containing dependencies as well
+    as code and data for students in Psych 10 (Introduction to Statistical Methods)
+    at Stanford.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    psych,
+    mosaic
